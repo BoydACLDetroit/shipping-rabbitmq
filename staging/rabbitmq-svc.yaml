@@ -5,7 +5,7 @@ metadata:
   name: rabbitmq
   labels:
     name: rabbitmq
-  namespace: jx-staging
+  namespace: staging
 spec:
   ports:
     # the port that this service should serve on

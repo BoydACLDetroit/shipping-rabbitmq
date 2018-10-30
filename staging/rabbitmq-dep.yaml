@@ -5,7 +5,7 @@ metadata:
   name: rabbitmq
   labels:
     name: rabbitmq
-  namespace: jx-staging
+  namespace: staging
 spec:
   replicas: 1
   template:
